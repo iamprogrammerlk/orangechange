@@ -64,9 +64,9 @@ contributions.
   branches directly to the main project repository, even if you have access to do so. However, it is perfectly
   acceptable to create branches that are related to releases.
 
-- To contribute your work, please open a Pull Request, even if you have access to push to the main. Pull Requests become
-  more necessary since your work is solely done on your fork. Please use the provided template for your Pull Request and
-  fill in all the necessary details.
+- To contribute your work, please open a Pull Request, even if you have access to push to the main. Pull Requests
+  become more necessary since your work is solely done on your fork. Please use the provided template for your Pull
+  Request and fill in all the necessary details.
 
 - Please do not merge your own Pull Request. Allow it to be merged by the reviewer once the review process is complete,
   or the review has been approved. If you push new changes after the review is approved, it must be reviewed again!

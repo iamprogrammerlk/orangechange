@@ -17,11 +17,11 @@
 ## Thank you for your interest in this project.
 
 In order to clarify the intellectual property license granted with contributions from any person or entity
-(the "Contributor"), this project owner(s) require all contributions to be signed by the contributor
-(using Git's "Sign and Verify Work Using GPG" [^1] workflow), indicating an agreement to the license terms below.
+(the "Contributor"), this project owner(s) require all contributions to be signed by the contributor (using Git's "Sign
+and Verify Work Using GPG" [^1] workflow), indicating an agreement to the license terms below.
 
-This license is for your protection as a contributor as well as the protection of the project itself and its users,
-it does not change your rights to use your own contributions for any other purpose.
+This license is for your protection as a contributor as well as the protection of the project itself and its users, it
+does not change your rights to use your own contributions for any other purpose.
 
 This version of the agreement allows an entity (the "contributor") to submit contributions to the project, and to grant
 copyright and patent licenses thereto.
@@ -41,8 +41,8 @@ copyright and patent licenses thereto.
 
 - You (the "Contributor") represent that you are legally entitled to grant the above license. If your employer(s) have
   rights to intellectual property that you create, you represent that you have received permission to make the
-  contributions on behalf of that employer, or that your employer has waived such rights for your contributions to
-  this project.
+  contributions on behalf of that employer, or that your employer has waived such rights for your contributions to this
+  project.
 
 - You (the "Contributor") represent that, except as disclosed in your contribution submission(s), each of your
   contributions is your original creation. You represent that your contribution submission(s) included complete details
